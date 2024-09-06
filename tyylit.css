@@ -1,0 +1,80 @@
+.sininen {
+    color: mediumblue;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0e0d0d;
+}
+
+.navbar2 {
+    float: left;
+}
+
+.navbar2 a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar2 a:hover {
+    background-color: #111;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 5px solid #0e0d0d;
+    float: left;
+    width: 453px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+    background-color: #0e0d0d;
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  .center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+.tausta {
+  background-color: #333;
+}
+
+.white {
+  color: white;
+}
+
+.font {
+  font-family: cursive;
+}
+
+.puu {
+  background-repeat: no-repeat;
+  background-position: right top; 
+  background-attachment: scroll;
+  background-size: 750px;
+  background-position-y: 60px;
+}
